@@ -227,8 +227,11 @@ li {
     justify-content: center;
     margin-top: 8px;
 }
+.social-item {
+    background-color: #f4f4fd;
+}
 .social-icon {
-    background-color: #4d5ae5;
+    background-color: #404bbf;
     border-radius: 20px;
 }
 .portfolio {
