@@ -88,8 +88,8 @@ li {
     letter-spacing: 0.02em;
     padding: 24px 0;
 }
-.studio:hover,
-:focus {
+.studio:focus,
+.studio:hover {
     color: #404bbf;
 }
 .list-address {
