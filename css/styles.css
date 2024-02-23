@@ -17,6 +17,15 @@ img {
     max-width: 100%;
     height: auto;
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
 .container {
     width: 1158px;
     max-width: 100%;
@@ -227,9 +236,7 @@ li {
     justify-content: center;
     margin-top: 8px;
 }
-.social-item {
-    background-color: #f4f4fd;
-}
+
 .social-icon {
     background-color: #404bbf;
     border-radius: 20px;
