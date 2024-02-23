@@ -75,7 +75,6 @@ li {
 }
 .list-nav {
     display: flex;
-    list-style: none;
     gap: 40px;
 }
 .studio {
@@ -95,7 +94,6 @@ li {
 .list-address {
     display: flex;
     flex-direction: row;
-    list-style: none;
     gap: 40px;
     padding: 24px 0;
 }
@@ -154,7 +152,6 @@ li {
 }
 .features-list {
     display: flex;
-    list-style: none;
     gap: 24px;
 }
 .features-block {
@@ -197,7 +194,6 @@ li {
 }
 .team-list {
     display: flex;
-    list-style: none;
     gap: 24px;
 }
 .team-image {
@@ -257,7 +253,6 @@ li {
 }
 .portfolio-list {
     display: flex;
-    list-style: none;
     flex-wrap: wrap;
     gap: 48px 24px;
 }
