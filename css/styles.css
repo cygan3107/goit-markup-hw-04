@@ -212,10 +212,6 @@ li {
     border-radius: 4px;
     margin-bottom: 8px;
 }
-.features-icons-one {
-    background-color: #2e2f42;
-}
-
 .features-name {
     color: var(--NAVY-BLUE, #2e2f42);
     /* Header 3 */
