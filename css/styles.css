@@ -307,6 +307,7 @@ li {
 }
 .portfolio-image {
     background: #fff;
+    box-shadow: #2e2f42;
 }
 .portfolio-descritption {
     border: 1px solid #e7e9fc;
