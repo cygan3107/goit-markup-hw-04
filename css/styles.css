@@ -328,10 +328,6 @@ li {
     position: absolute;
     top: 0;
 }
-.portfolio-image-box-text:hover {
-    transform: translateY(100%);
-    top: 0;
-}
 .portfolio-descritption {
     border: 1px solid #e7e9fc;
     border-top: none;
