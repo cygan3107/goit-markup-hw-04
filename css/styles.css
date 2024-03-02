@@ -307,13 +307,12 @@ li {
 }
 .portfolio-image {
     background: #fff;
-    box-shadow: #2e2f42;
+    transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .portfolio-image-box {
     position: relative;
     overflow: hidden;
 }
-
 .portfolio-image-box-text {
     font-size: 16px;
     line-height: 1.5;
@@ -327,6 +326,10 @@ li {
     padding: 40px 32px;
     position: absolute;
     top: 0;
+}
+.portfolio-image:hover .portfolio-image-box-text,
+.portfolio-image:focus .portfolio-image-box-text {
+    transform: translateY(0);
 }
 .portfolio-descritption {
     border: 1px solid #e7e9fc;
